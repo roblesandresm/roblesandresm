@@ -1,7 +1,7 @@
 ## HI. I'm Andres Robles
 
 I'm a frontend developer in progress. My social networks:
-## [Twitter](https://pages.github.com/)
+## [Twitter](https://twitter.com/roblesandresm)
 
 
 <!--
